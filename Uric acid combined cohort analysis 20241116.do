@@ -1,7 +1,5 @@
 
-// Uric acid anaylsis on combined dataset (only those w/ uric acid data)
-
-	cd "C:\Users\caitb\OneDrive - Indiana University\Uric acid analysis\Uric acid 2023.01\Stata and R"
+// Uric acid anaylsis on combined dataset 
 
 	use "Combined_NDI_CMR01_final.dta", clear 
 	
