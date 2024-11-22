@@ -2,7 +2,8 @@
 Statistical code for manuscript on uric acid levels in severe malaria 
 
 This project includes code for analysis used in the manuscript:
-"Elevated uric acid levels, mortality and cognitive impairment in children with severe malaria" by Bond et al (2024). 
+"Elevated uric acid levels, mortality and cognitive impairment in 
+children with severe malaria" by Bond et al (2024). 
 
 Primary analysis:
 
